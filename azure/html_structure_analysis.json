@@ -1,0 +1,794 @@
+{
+  "filter_structure": {
+    "navigation_0": {
+      "aria_label": "Filters",
+      "class": [
+        "ms-Nav",
+        "root-64"
+      ],
+      "filter_groups": [
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Microsoft Customer Size",
+              "expanded": false,
+              "aria_label": "Expand Microsoft customer size filter menu"
+            }
+          ]
+        },
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Partner capabilities",
+              "expanded": false,
+              "aria_label": "Expand partner capabilities filter menu"
+            }
+          ]
+        },
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Industries",
+              "expanded": false,
+              "aria_label": "Expand industries filter menu"
+            }
+          ]
+        },
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Products",
+              "expanded": false,
+              "aria_label": "Expand products filter menu"
+            }
+          ]
+        },
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Solution category",
+              "expanded": false,
+              "aria_label": "Expand Solution category filter menu"
+            }
+          ]
+        },
+        {
+          "expanded": true,
+          "items": [
+            {
+              "name": "Services",
+              "expanded": false,
+              "aria_label": "Services"
+            }
+          ]
+        }
+      ]
+    },
+    "location_filter_0": {
+      "label_element": "No location selected",
+      "edit_link": "Select location"
+    },
+    "potential_filter_buttons": [
+      {
+        "text": "Select location",
+        "class": [
+          "ms-Link",
+          "filter-location-edit-link",
+          "primary-link",
+          "root-60"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Microsoft Customer Size Microsoft Customer Size",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Partner capabilities Partner capabilities",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Industries Industries",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Products Products",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Solution category Solution category",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Services Services",
+        "class": [
+          "ms-Button",
+          "ms-Button--action",
+          "ms-Button--command",
+          "root-45"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      },
+      {
+        "text": "Contact me",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "contact-button",
+          "root-117"
+        ],
+        "aria_label": "",
+        "aria_expanded": ""
+      }
+    ]
+  },
+  "partner_card_structure": {
+    "results_container": {
+      "class": [
+        "results-container"
+      ],
+      "child_elements": [
+        {
+          "element_type": "stack",
+          "class": [
+            "ms-Stack",
+            "css-95"
+          ],
+          "css_class": ""
+        }
+      ]
+    },
+    "[role=\"listitem\"]": [
+      {
+        "tag": "li",
+        "class": [
+          "ms-Nav-navItem",
+          "navItem-70"
+        ],
+        "role": "listitem",
+        "links": [],
+        "images": [],
+        "headings": [],
+        "paragraphs": [],
+        "text_elements": [
+          "\ue70d",
+          "Microsoft Customer Size",
+          "Microsoft Customer Size"
+        ]
+      },
+      {
+        "tag": "li",
+        "class": [
+          "ms-Nav-navItem",
+          "navItem-70"
+        ],
+        "role": "listitem",
+        "links": [],
+        "images": [],
+        "headings": [],
+        "paragraphs": [],
+        "text_elements": [
+          "\ue70d",
+          "Partner capabilities",
+          "Partner capabilities"
+        ]
+      },
+      {
+        "tag": "li",
+        "class": [
+          "ms-Nav-navItem",
+          "navItem-70"
+        ],
+        "role": "listitem",
+        "links": [],
+        "images": [],
+        "headings": [],
+        "paragraphs": [],
+        "text_elements": [
+          "\ue70d",
+          "Industries",
+          "Industries"
+        ]
+      }
+    ],
+    ".card": [
+      {
+        "tag": "div",
+        "class": [
+          "tile-container",
+          "card",
+          "ms-depth-8"
+        ],
+        "role": "",
+        "links": [
+          {
+            "text": "Azure",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Power BI",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Office 365",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Developer Tools",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "SQL",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "+4",
+            "href": "",
+            "class": [
+              "more-product-item-label"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "alt": "pmOne AG logo",
+            "src": "https://partnerbusinessprofileassets.microsoft.com/publishedlogos/5ed3e396-6960-4d9a-8085-6b7dd32ff19f_124f2711-1087-4032-9c05-e3fda8bb475f",
+            "class": [
+              "ms-Image-image",
+              "is-loaded",
+              "ms-Image-image--center",
+              "ms-Image-image--portrait",
+              "is-fadeIn",
+              "image-121"
+            ]
+          }
+        ],
+        "headings": [],
+        "paragraphs": [
+          {
+            "text": "pmOne AG",
+            "class": [
+              "name"
+            ]
+          },
+          {
+            "text": "Wien, Austria",
+            "class": [
+              "location"
+            ]
+          },
+          {
+            "text": "Von Daten zu Erkenntnissen\nVon Daten zu Erkenntnissen\nHierzu geh\u00f6ren auf der einen Seite Querschnittsthemen wie Data ...",
+            "class": [
+              "description"
+            ]
+          }
+        ],
+        "text_elements": [
+          "pmOne AG",
+          "Wien, Austria",
+          "Azure",
+          "Power BI",
+          "Office 365",
+          "Developer Tools",
+          "SQL",
+          "+4",
+          "Von Daten zu Erkenntnissen\nVon Daten zu Erkenntnissen\nHierzu geh\u00f6ren auf der einen Seite Querschnittsthemen wie Data ...",
+          "Contact me"
+        ]
+      },
+      {
+        "tag": "div",
+        "class": [
+          "tile-container",
+          "card",
+          "ms-depth-8"
+        ],
+        "role": "",
+        "links": [
+          {
+            "text": "Azure",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "SQL",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "+1",
+            "href": "",
+            "class": [
+              "more-product-item-label"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "alt": "Realtech NZ Limited logo",
+            "src": "https://partnerbusinessprofileassets.microsoft.com/publishedlogos/881a286f-c605-4fa1-9041-f08b0f3d68dc_115c695d-63e8-425a-a0ac-544ea8a3515d",
+            "class": [
+              "ms-Image-image",
+              "is-loaded",
+              "ms-Image-image--center",
+              "ms-Image-image--portrait",
+              "is-fadeIn",
+              "image-121"
+            ]
+          }
+        ],
+        "headings": [],
+        "paragraphs": [
+          {
+            "text": "Realtech NZ Limited",
+            "class": [
+              "name"
+            ]
+          },
+          {
+            "text": "Auckland, New Zealand",
+            "class": [
+              "location"
+            ]
+          },
+          {
+            "text": "Realtech provide the SAP expertise and AZURE experience to facilitate the smooth migration of customer SAP systems to...",
+            "class": [
+              "description"
+            ]
+          }
+        ],
+        "text_elements": [
+          "Realtech NZ Limited",
+          "Auckland, New Zealand",
+          "Azure",
+          "SQL",
+          "+1",
+          "Realtech provide the SAP expertise and AZURE experience to facilitate the smooth migration of customer SAP systems to...",
+          "Contact me"
+        ]
+      },
+      {
+        "tag": "div",
+        "class": [
+          "tile-container",
+          "card",
+          "ms-depth-8"
+        ],
+        "role": "",
+        "links": [
+          {
+            "text": "Azure",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Enterprise Mobility & Security",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Exchange",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Dynamics 365",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Dynamics 365 Enterprise",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Office 365",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Power BI",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Project",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "SharePoint",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Skype for Business",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Visio",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Windows",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Yammer",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Developer Tools",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "DynamicsAX,GP,NAV,SL",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Microsoft 365",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "SQL",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "Teams",
+            "href": "",
+            "class": [
+              "product-item",
+              "ellipsis"
+            ]
+          },
+          {
+            "text": "+17",
+            "href": "",
+            "class": [
+              "more-product-item-label"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "alt": "Inova Solutions logo",
+            "src": "https://partnerbusinessprofileassets.microsoft.com/publishedlogos/57f42b34-1699-488b-99de-086f4f947a95_003161e1-a92c-4311-8feb-e8e256717a51",
+            "class": [
+              "ms-Image-image",
+              "is-loaded",
+              "ms-Image-image--center",
+              "ms-Image-image--portrait",
+              "is-fadeIn",
+              "image-121"
+            ]
+          }
+        ],
+        "headings": [],
+        "paragraphs": [
+          {
+            "text": "Inova Solutions",
+            "class": [
+              "name"
+            ]
+          },
+          {
+            "text": "Barataria, Trinidad and Tobago",
+            "class": [
+              "location"
+            ]
+          },
+          {
+            "text": "Inova Solutions is the Microsoft trusted provider of Cloud services in the Caribbean and Ecuador, with an outstanding...",
+            "class": [
+              "description"
+            ]
+          }
+        ],
+        "text_elements": [
+          "Inova Solutions",
+          "Barataria, Trinidad and Tobago",
+          "Azure",
+          "Enterprise Mobility & Security",
+          "Exchange",
+          "Dynamics 365",
+          "Dynamics 365 Enterprise",
+          "Office 365",
+          "Power BI",
+          "Project",
+          "SharePoint",
+          "Skype for Business",
+          "Visio",
+          "Windows",
+          "Yammer",
+          "Developer Tools",
+          "DynamicsAX,GP,NAV,SL",
+          "Microsoft 365",
+          "SQL",
+          "Teams",
+          "+17",
+          "Inova Solutions is the Microsoft trusted provider of Cloud services in the Caribbean and Ecuador, with an outstanding...",
+          "Contact me"
+        ]
+      }
+    ],
+    "divs_with_text": [
+      {
+        "class": [],
+        "id": "root",
+        "text_lines": [
+          "Browse partnersFilter and sort partners to refine the results.Filters\ue70d\ue721No location selectedSelect location\ue70dMicrosoft Customer Size Microsoft Customer Size\ue70dPartner capabilities Partner capabilities\ue70dIndustries Industries\ue70dProducts Products\ue70dSolution category Solution category\ue70dServices ServicesConnect with partnersGet in touch with trusted Microsoft partners to find up-to-date Microsoft-based services for your business needs.All results18 partners in the current pageSort by:Best match\ue70dpmOne AGWien, AustriaAzurePower BIOffice 365Developer ToolsSQL+4Von Daten zu Erkenntnissen",
+          "Von Daten zu Erkenntnissen",
+          "Hierzu geh\u00f6ren auf der einen Seite Querschnittsthemen wie Data ...Contact meRealtech NZ LimitedAuckland, New ZealandAzureSQL+1Realtech provide the SAP expertise and AZURE experience to facilitate the smooth migration of customer SAP systems to...Contact meInova SolutionsBarataria, Trinidad and TobagoAzureEnterprise Mobility & SecurityExchangeDynamics 365Dynamics 365 EnterpriseOffice 365Power BIProjectSharePointSkype for BusinessVisioWindowsYammerDeveloper ToolsDynamicsAX,GP,NAV,SLMicrosoft 365SQLTeams+17Inova Solutions is the Microsoft trusted provider of Cloud services in the Caribbean and Ecuador, with an outstanding...Contact meADVANCED SYSTEM SOLUTIONSMALAKOFF, FranceWindowsTeamsAzure+2A2S&CO EST UN INT\u00c9GRATEUR DE SOLUTIONS IT DONT L\u2019OBJECTIF EST D\u2019OPTIMISER VOTRE TEMPS ET VOTRE PERFORMANCE",
+          "L\u2019innovati...Contact meInventx AGSt. Gallen, SwitzerlandAzureEnterprise Mobility & SecurityExchangeMicrosoft 365Office 365Power BISharePointSkype for BusinessSQLTeamsWindows+10Innovation, Interaktion, Swissness \u2013 Inventx ist der Schweizer IT- und Digitalisierungspartner f\u00fcr f\u00fchrende Finanz- u...Contact mePartner HelperNew York, New York, United StatesDynamics 365Dynamics 365 EnterpriseMicrosoft 365SharePointAzureOffice 365TeamsExchangePower BIProjectDeveloper Tools+10We are a Solutions Partner for Business Applications, specializing in Dynamics 365, with a global presence across Eur...Contact meONE BI LTDROSH HAAIN, IsraelAzurePower BIProjectSQLDeveloper Tools+4Data platform  & BI Specialists",
+          "Consultant",
+          "Services Center (Managed Services)",
+          "Projects",
+          "Products",
+          "Microsoft Gold Partn...Contact metomasini, Inh. Michael TomasiniWeingarten, GermanyWindowsTeamsAzure+2SystemhausContact meADNM International Inc.Douala, CameroonAzureEnterprise Mobility & SecurityExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseDynamicsAX,GP,NAV,SLMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+16Partenaire GOLD Microsoft, ISV (Independant Software Vendor) et CSP Direct (Cloud Solutions Provider) aux \u00c9tats-Unis,...Contact meAwareColumbus, Ohio, United StatesTeamsYammer+1Unblock and Unleash Collaboration in Teams & Yammer for All Employees!",
+          "",
+          "Aware is the single-source solution to addres...Contact meValconUtrecht, NetherlandsAzurePower BISQL+2Data innovation driving digital transformation",
+          "",
+          "Our customers embrace innovation and want to use their data to unlock...Contact meCODE ARCHITECTS SRLDenmarkAzureDeveloper ToolsExchangeMicrosoft 365TeamsOffice 365Power BISQLSharePointWindows+9Code Architects: Your Trusted Microsoft Gold Partner for Digital Transformation",
+          "With a decade of proven experience in...Contact meitm8 Sverige ABHelsingborg, SwedenEnterprise Mobility & SecurityAzureExchangeOffice 365Skype for BusinessWindowsYammerPower BISQLMicrosoft 365SharePointTeamsDeveloper ToolsVisio+14itm8 is a Northern European digital transformation partner with private and public customers in Denmark, Sweden, and ...Contact meTrue.org CloudBogot\u00e1, ColombiaAzureDeveloper ToolsDynamics 365 EnterpriseDynamics 365DynamicsAX,GP,NAV,SLEnterprise Mobility & SecurityExchangeMicrosoft 365TeamsOffice 365Power BIProjectSQLSharePointSkype for BusinessVisioYammerWindows+17Are you considering implementing Microsoft 365 in your organization?",
+          "",
+          "Our team of expert consultants is here to help...Contact meGetronics Global Services B.V.London, United KingdomAzureExchangeMicrosoft 365Office 365Power BISharePointSQLTeamsWindowsEnterprise Mobility & Security+9With integration at the heart of Getronics, we are great at bringing teams together: our experts, customers, and part...Contact meStretch ABStockholm, SwedenOffice 365SharePointAzurePower BISQLTeams+5Stretch \u00e4r guldpartner med Microsoft inom applikationsutveckling och \u00e4r silverpartner inom samarbetsplattformar och B...Contact meGlobal Data Consultants LLCChambersburg, Pennsylvania, United StatesAzureExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+14Global Data Consultants, LLC (GDC) is a veteran-owned business that commenced operations in 1995.   GDC manages IT se...Contact meOdiwiCarquefou, FranceOffice 365Microsoft 365WindowsExchange+3Odiwi, c\u2019est l\u2019assocation de deux entrepreneurs aux expertises ax\u00e9es num\u00e9rique. Forts d\u2019exp\u00e9riences diverses aux trav...Contact me\ue76cNext"
+        ],
+        "link_count": 176,
+        "image_count": 18
+      },
+      {
+        "class": [
+          "app-iframe",
+          "ltr"
+        ],
+        "id": "",
+        "text_lines": [
+          "Browse partnersFilter and sort partners to refine the results.Filters\ue70d\ue721No location selectedSelect location\ue70dMicrosoft Customer Size Microsoft Customer Size\ue70dPartner capabilities Partner capabilities\ue70dIndustries Industries\ue70dProducts Products\ue70dSolution category Solution category\ue70dServices ServicesConnect with partnersGet in touch with trusted Microsoft partners to find up-to-date Microsoft-based services for your business needs.All results18 partners in the current pageSort by:Best match\ue70dpmOne AGWien, AustriaAzurePower BIOffice 365Developer ToolsSQL+4Von Daten zu Erkenntnissen",
+          "Von Daten zu Erkenntnissen",
+          "Hierzu geh\u00f6ren auf der einen Seite Querschnittsthemen wie Data ...Contact meRealtech NZ LimitedAuckland, New ZealandAzureSQL+1Realtech provide the SAP expertise and AZURE experience to facilitate the smooth migration of customer SAP systems to...Contact meInova SolutionsBarataria, Trinidad and TobagoAzureEnterprise Mobility & SecurityExchangeDynamics 365Dynamics 365 EnterpriseOffice 365Power BIProjectSharePointSkype for BusinessVisioWindowsYammerDeveloper ToolsDynamicsAX,GP,NAV,SLMicrosoft 365SQLTeams+17Inova Solutions is the Microsoft trusted provider of Cloud services in the Caribbean and Ecuador, with an outstanding...Contact meADVANCED SYSTEM SOLUTIONSMALAKOFF, FranceWindowsTeamsAzure+2A2S&CO EST UN INT\u00c9GRATEUR DE SOLUTIONS IT DONT L\u2019OBJECTIF EST D\u2019OPTIMISER VOTRE TEMPS ET VOTRE PERFORMANCE",
+          "L\u2019innovati...Contact meInventx AGSt. Gallen, SwitzerlandAzureEnterprise Mobility & SecurityExchangeMicrosoft 365Office 365Power BISharePointSkype for BusinessSQLTeamsWindows+10Innovation, Interaktion, Swissness \u2013 Inventx ist der Schweizer IT- und Digitalisierungspartner f\u00fcr f\u00fchrende Finanz- u...Contact mePartner HelperNew York, New York, United StatesDynamics 365Dynamics 365 EnterpriseMicrosoft 365SharePointAzureOffice 365TeamsExchangePower BIProjectDeveloper Tools+10We are a Solutions Partner for Business Applications, specializing in Dynamics 365, with a global presence across Eur...Contact meONE BI LTDROSH HAAIN, IsraelAzurePower BIProjectSQLDeveloper Tools+4Data platform  & BI Specialists",
+          "Consultant",
+          "Services Center (Managed Services)",
+          "Projects",
+          "Products",
+          "Microsoft Gold Partn...Contact metomasini, Inh. Michael TomasiniWeingarten, GermanyWindowsTeamsAzure+2SystemhausContact meADNM International Inc.Douala, CameroonAzureEnterprise Mobility & SecurityExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseDynamicsAX,GP,NAV,SLMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+16Partenaire GOLD Microsoft, ISV (Independant Software Vendor) et CSP Direct (Cloud Solutions Provider) aux \u00c9tats-Unis,...Contact meAwareColumbus, Ohio, United StatesTeamsYammer+1Unblock and Unleash Collaboration in Teams & Yammer for All Employees!",
+          "",
+          "Aware is the single-source solution to addres...Contact meValconUtrecht, NetherlandsAzurePower BISQL+2Data innovation driving digital transformation",
+          "",
+          "Our customers embrace innovation and want to use their data to unlock...Contact meCODE ARCHITECTS SRLDenmarkAzureDeveloper ToolsExchangeMicrosoft 365TeamsOffice 365Power BISQLSharePointWindows+9Code Architects: Your Trusted Microsoft Gold Partner for Digital Transformation",
+          "With a decade of proven experience in...Contact meitm8 Sverige ABHelsingborg, SwedenEnterprise Mobility & SecurityAzureExchangeOffice 365Skype for BusinessWindowsYammerPower BISQLMicrosoft 365SharePointTeamsDeveloper ToolsVisio+14itm8 is a Northern European digital transformation partner with private and public customers in Denmark, Sweden, and ...Contact meTrue.org CloudBogot\u00e1, ColombiaAzureDeveloper ToolsDynamics 365 EnterpriseDynamics 365DynamicsAX,GP,NAV,SLEnterprise Mobility & SecurityExchangeMicrosoft 365TeamsOffice 365Power BIProjectSQLSharePointSkype for BusinessVisioYammerWindows+17Are you considering implementing Microsoft 365 in your organization?",
+          "",
+          "Our team of expert consultants is here to help...Contact meGetronics Global Services B.V.London, United KingdomAzureExchangeMicrosoft 365Office 365Power BISharePointSQLTeamsWindowsEnterprise Mobility & Security+9With integration at the heart of Getronics, we are great at bringing teams together: our experts, customers, and part...Contact meStretch ABStockholm, SwedenOffice 365SharePointAzurePower BISQLTeams+5Stretch \u00e4r guldpartner med Microsoft inom applikationsutveckling och \u00e4r silverpartner inom samarbetsplattformar och B...Contact meGlobal Data Consultants LLCChambersburg, Pennsylvania, United StatesAzureExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+14Global Data Consultants, LLC (GDC) is a veteran-owned business that commenced operations in 1995.   GDC manages IT se...Contact meOdiwiCarquefou, FranceOffice 365Microsoft 365WindowsExchange+3Odiwi, c\u2019est l\u2019assocation de deux entrepreneurs aux expertises ax\u00e9es num\u00e9rique. Forts d\u2019exp\u00e9riences diverses aux trav...Contact me\ue76cNext"
+        ],
+        "link_count": 176,
+        "image_count": 18
+      },
+      {
+        "class": [],
+        "id": "",
+        "text_lines": [
+          "Browse partnersFilter and sort partners to refine the results.Filters\ue70d\ue721No location selectedSelect location\ue70dMicrosoft Customer Size Microsoft Customer Size\ue70dPartner capabilities Partner capabilities\ue70dIndustries Industries\ue70dProducts Products\ue70dSolution category Solution category\ue70dServices ServicesConnect with partnersGet in touch with trusted Microsoft partners to find up-to-date Microsoft-based services for your business needs.All results18 partners in the current pageSort by:Best match\ue70dpmOne AGWien, AustriaAzurePower BIOffice 365Developer ToolsSQL+4Von Daten zu Erkenntnissen",
+          "Von Daten zu Erkenntnissen",
+          "Hierzu geh\u00f6ren auf der einen Seite Querschnittsthemen wie Data ...Contact meRealtech NZ LimitedAuckland, New ZealandAzureSQL+1Realtech provide the SAP expertise and AZURE experience to facilitate the smooth migration of customer SAP systems to...Contact meInova SolutionsBarataria, Trinidad and TobagoAzureEnterprise Mobility & SecurityExchangeDynamics 365Dynamics 365 EnterpriseOffice 365Power BIProjectSharePointSkype for BusinessVisioWindowsYammerDeveloper ToolsDynamicsAX,GP,NAV,SLMicrosoft 365SQLTeams+17Inova Solutions is the Microsoft trusted provider of Cloud services in the Caribbean and Ecuador, with an outstanding...Contact meADVANCED SYSTEM SOLUTIONSMALAKOFF, FranceWindowsTeamsAzure+2A2S&CO EST UN INT\u00c9GRATEUR DE SOLUTIONS IT DONT L\u2019OBJECTIF EST D\u2019OPTIMISER VOTRE TEMPS ET VOTRE PERFORMANCE",
+          "L\u2019innovati...Contact meInventx AGSt. Gallen, SwitzerlandAzureEnterprise Mobility & SecurityExchangeMicrosoft 365Office 365Power BISharePointSkype for BusinessSQLTeamsWindows+10Innovation, Interaktion, Swissness \u2013 Inventx ist der Schweizer IT- und Digitalisierungspartner f\u00fcr f\u00fchrende Finanz- u...Contact mePartner HelperNew York, New York, United StatesDynamics 365Dynamics 365 EnterpriseMicrosoft 365SharePointAzureOffice 365TeamsExchangePower BIProjectDeveloper Tools+10We are a Solutions Partner for Business Applications, specializing in Dynamics 365, with a global presence across Eur...Contact meONE BI LTDROSH HAAIN, IsraelAzurePower BIProjectSQLDeveloper Tools+4Data platform  & BI Specialists",
+          "Consultant",
+          "Services Center (Managed Services)",
+          "Projects",
+          "Products",
+          "Microsoft Gold Partn...Contact metomasini, Inh. Michael TomasiniWeingarten, GermanyWindowsTeamsAzure+2SystemhausContact meADNM International Inc.Douala, CameroonAzureEnterprise Mobility & SecurityExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseDynamicsAX,GP,NAV,SLMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+16Partenaire GOLD Microsoft, ISV (Independant Software Vendor) et CSP Direct (Cloud Solutions Provider) aux \u00c9tats-Unis,...Contact meAwareColumbus, Ohio, United StatesTeamsYammer+1Unblock and Unleash Collaboration in Teams & Yammer for All Employees!",
+          "",
+          "Aware is the single-source solution to addres...Contact meValconUtrecht, NetherlandsAzurePower BISQL+2Data innovation driving digital transformation",
+          "",
+          "Our customers embrace innovation and want to use their data to unlock...Contact meCODE ARCHITECTS SRLDenmarkAzureDeveloper ToolsExchangeMicrosoft 365TeamsOffice 365Power BISQLSharePointWindows+9Code Architects: Your Trusted Microsoft Gold Partner for Digital Transformation",
+          "With a decade of proven experience in...Contact meitm8 Sverige ABHelsingborg, SwedenEnterprise Mobility & SecurityAzureExchangeOffice 365Skype for BusinessWindowsYammerPower BISQLMicrosoft 365SharePointTeamsDeveloper ToolsVisio+14itm8 is a Northern European digital transformation partner with private and public customers in Denmark, Sweden, and ...Contact meTrue.org CloudBogot\u00e1, ColombiaAzureDeveloper ToolsDynamics 365 EnterpriseDynamics 365DynamicsAX,GP,NAV,SLEnterprise Mobility & SecurityExchangeMicrosoft 365TeamsOffice 365Power BIProjectSQLSharePointSkype for BusinessVisioYammerWindows+17Are you considering implementing Microsoft 365 in your organization?",
+          "",
+          "Our team of expert consultants is here to help...Contact meGetronics Global Services B.V.London, United KingdomAzureExchangeMicrosoft 365Office 365Power BISharePointSQLTeamsWindowsEnterprise Mobility & Security+9With integration at the heart of Getronics, we are great at bringing teams together: our experts, customers, and part...Contact meStretch ABStockholm, SwedenOffice 365SharePointAzurePower BISQLTeams+5Stretch \u00e4r guldpartner med Microsoft inom applikationsutveckling och \u00e4r silverpartner inom samarbetsplattformar och B...Contact meGlobal Data Consultants LLCChambersburg, Pennsylvania, United StatesAzureExchangeDeveloper ToolsDynamics 365Dynamics 365 EnterpriseMicrosoft 365Office 365Power BIProjectSharePointSkype for BusinessSQLTeamsVisioWindows+14Global Data Consultants, LLC (GDC) is a veteran-owned business that commenced operations in 1995.   GDC manages IT se...Contact meOdiwiCarquefou, FranceOffice 365Microsoft 365WindowsExchange+3Odiwi, c\u2019est l\u2019assocation de deux entrepreneurs aux expertises ax\u00e9es num\u00e9rique. Forts d\u2019exp\u00e9riences diverses aux trav...Contact me\ue76cNext"
+        ],
+        "link_count": 176,
+        "image_count": 18
+      }
+    ]
+  },
+  "pagination_structure": {
+    "next_prev_buttons": [
+      {
+        "tag": "button",
+        "class": [
+          "ms-Button",
+          "ms-Button--default",
+          "zero-border",
+          "root-117"
+        ],
+        "aria_label": "",
+        "title": "",
+        "text": "\ue76cNext",
+        "is_next": true,
+        "is_previous": false
+      }
+    ]
+  }
+}

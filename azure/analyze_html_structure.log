@@ -1,0 +1,16 @@
+2025-03-13 01:07:38,233 - analyze_html_structure - INFO - Fetching content from: https://appsource.microsoft.com/en-us/marketplace/partner-dir
+2025-03-13 01:07:39,619 - analyze_html_structure - INFO - Saving HTML content to: ./partner-dir.html
+2025-03-13 01:07:39,632 - analyze_html_structure - INFO - Found 0 potential filter elements
+2025-03-13 01:34:59,474 - analyze_html_structure - INFO - Loading HTML content from: ./partner-dir.html
+2025-03-13 01:34:59,475 - analyze_html_structure - INFO - Analyzing filter structure...
+2025-03-13 01:34:59,490 - analyze_html_structure - INFO - Found 1 navigation elements
+2025-03-13 01:34:59,495 - analyze_html_structure - INFO - Found 1 location filter containers
+2025-03-13 01:34:59,496 - analyze_html_structure - INFO - Analyzing partner card structure...
+2025-03-13 01:34:59,511 - analyze_html_structure - INFO - Found results container
+2025-03-13 01:34:59,514 - analyze_html_structure - INFO - Found 1 stack elements in results container
+2025-03-13 01:34:59,527 - analyze_html_structure - INFO - Found 182 potential partner cards with selector: [role="listitem"]
+2025-03-13 01:34:59,530 - analyze_html_structure - INFO - Found 18 potential partner cards with selector: .card
+2025-03-13 01:34:59,557 - analyze_html_structure - INFO - Found 22 divs with text, links, and images
+2025-03-13 01:34:59,558 - analyze_html_structure - INFO - Analyzing pagination structure...
+2025-03-13 01:34:59,600 - analyze_html_structure - INFO - Found 1 potential next/previous buttons
+2025-03-13 01:34:59,600 - analyze_html_structure - INFO - Saving analysis results to: ./html_structure_analysis.json
